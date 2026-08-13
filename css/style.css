@@ -1,0 +1,15 @@
+.card{
+    border-radius:15px;
+}
+
+.btn{
+    transition:0.3s;
+}
+
+.btn:hover{
+    transform:scale(1.05);
+}
+
+table tr:hover{
+    background:#f8f9fa;
+}
